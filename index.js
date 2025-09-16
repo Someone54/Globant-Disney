@@ -46,3 +46,4 @@ btnRight.addEventListener('click', function(){
 btnLeft.addEventListener('click', function(){
     Prev();
 });
+
